@@ -1,4 +1,4 @@
-## MetaXL: Meta Representation Transformation for Low-resourceCross-lingual Learning
+## MetaXL: Meta Representation Transformation for Low-resource Cross-lingual Learning
 
 This repo hosts the code for MetaXL, published at NAACL 2021. 
 > [MetaXL: Meta Representation Transformation for Low- resource Cross-lingual Learning] (https://arxiv.org/pdf/2104.07908.pdf)
